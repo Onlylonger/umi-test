@@ -1,0 +1,15 @@
+{
+  "name": "umi-test",
+  "version": "1.0.0",
+  "bin": {
+    "umi-test": "./bin/umi-test.js"
+  },
+  "repository": "git@github.com:Onlylonger/umi-test.git",
+  "author": "wangshilong <onlylonger@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@umijs/core": "^4.0.0-beta.16",
+    "@umijs/utils": "^4.0.0-beta.16",
+    "umi": "^4.0.0-beta.16"
+  }
+}
